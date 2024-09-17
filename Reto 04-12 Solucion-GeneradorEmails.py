@@ -1,3 +1,9 @@
+'''
+Entrada de datos en Python
+Crea una nueva versión del generador de emails del reto 03-19 pero que las variables sean ingresadas por consola.
+'''
+
+#Escribe tu codigo aqui:
 print('*** Sistema Generador de Emails ***')
 nombre = input('Cual es tu nombre? ')
 apellidos = input('Cuales son tus apellidos? ')
