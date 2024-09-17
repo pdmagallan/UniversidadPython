@@ -1,3 +1,13 @@
+'''
+Generador de Email
+Crea un programa para generar un email a partir de los siguientes datos:
+*Nombre: Ubaldo Acosta Soto
+*Empresa: Global Mentoring
+*Dominio: com.mx
+Resultado Final:
+email: ubaldo.acosta.soto@globalmentoring.com.mx
+'''
+
 # Generador de  emails
 print('*** Generador de Emails ***')
 
