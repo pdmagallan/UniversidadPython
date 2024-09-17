@@ -1,3 +1,15 @@
+'''
+Sistema Tienda Online
+Crear el detalle de un producto de una tienda online.
+El detalle del producto debe tener:
+*Nombre
+*Precio
+*Cantidad en el inventario
+*Indicar si está disponible
+Imprimir por consola el detalle, hacer algunos cambios y mandar a imprimir nuevamente.
+'''
+
+#Escribe tu codigo aqui:
 print('*** Sistema de Tienda Online ***')
 
 # Definir las variables de un producto
