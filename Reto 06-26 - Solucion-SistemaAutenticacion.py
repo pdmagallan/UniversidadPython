@@ -1,3 +1,9 @@
+'''
+Sentencias de Control en Python
+Mejorar el sistema de autenticación usando la sentencia if-elsif-else
+'''
+
+#Escribe tu codigo aqui:
 print('*** Sistema de Autenticación ***')
 
 USUARIO_VALIDO = 'admin'
